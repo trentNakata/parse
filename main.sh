@@ -14,7 +14,7 @@ away_score=$(awk -F '|' 'NR==1 {print $6}' i="${i}" test.txt|awk -F '-' '{print 
 home_score=$(awk -F '|' 'NR==1 {print $6}' i="${i}" test.txt|awk -F '-' '{print $2}')
 batter_name=$(awk -F '|' 'NR==i {print $13}' i="${i}" test.txt)
 top_inning=$(awk -F '|' 'NR==i {print $5}' i="${i}" test.txt)
-test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F '.' '{print$2}')
+#test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F '.' '{print$2}')
 if [ "$top_inning" = "top" ]; then
     top=1
     if [ ! -z "$test_text" ]; then
@@ -39,8 +39,8 @@ else
     fi
 fi
 
-second=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'second' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
-third=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt  | awk -F 'rd' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /thi/' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
+second=$(awk -F '|' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'second' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
+third=$(awk -F '|' 'NR==i {print $9}' i="${i}" test.txt  | awk -F 'rd' '{print$1}' | awk -F ';' '{print $NF}' | awk '$5 ~ /thi/' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
 
 sub='third'
 
@@ -49,16 +49,19 @@ sub='third'
 #  third=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt  | awk -F 'third' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
 #fi
 
-echo $third
+#echo $third
 
-#test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'second' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
-if [ ! -z "$test_text" ]; then
-    #echo "$test_text"
-    test_text=1
-fi
+#test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'walked' '{print$1}' | awk '$3 ~ /to/' | awk -F 'to' '{print $1}')
+
+#echo "$test_text"
+
+#test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'walked' '{print$1}' | awk -F ';' '{print $NF}' | awk '$3 ~ /advanced/' | awk -F 'advanced' '{print $1}')
+
+#test_text=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'walked' '{print$1}' | awk '$3 ~ /to/' | awk -F 'to' '{print $1}')
+sub_in=$(awk -F '/' 'NR==i {print $9}' i="${i}" test.txt | awk -F 'walked' '{print$1}' | awk '$3 ~ /to/' | awk -F 'for' '{print $2}')
 
 
-#echo "$year|$date|$id|$visitor|$home|$inning|$top|$away_score|$home_score|$away_text|$home_text|$bat_order|$battername|$1st|$2nd|$3rd|$subnum|$sub_in|$sub_out""
+#echo "$year|$date|$id|$visitor|$home|$inning|$top|$away_score|$home_score|$away_text|$home_text|$bat_order|$battername|$1st|$2nd|$3rd|$subnum|$sub_in"
 
 done >> final.txt
 
