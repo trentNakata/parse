@@ -1,35 +1,9 @@
-45053|Salem, Ore.||6|bot|45148|Willamette|Occidental|L. Werkmeist singled to left field.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|L. Werkmeist|singled
-45053|Salem, Ore.||6|bot|45148|Willamette|Occidental|L. Wagner flied out to cf.|2Solomon023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|L. Wagner|flied out
-45053|Salem, Ore.||6|bot|45150|Willamette|Occidental|T. Foster homered to left field, 2 RBI; L. Werkmeist scored.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|T. Foster|homered
-45053|Salem, Ore.||6|bot|45150|Willamette|Occidental|C. Walker fouled out to 3b.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|C. Walker|fouled out
-45053|Salem, Ore.||6|top|45150|Occidental|Willamette|R: 2 H: 2|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|R: 2|
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|M. Capobianc walked.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|M. Capobianc|walked
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|L. Martineau singled to left field; M. Capobianc advanced to second.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|L. Martineau|singled
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|R. Granucci to rf for L. Wagner.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|R. Granucci|
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|N. Upchurch flied out to 1b.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|N. Upchurch|flied out
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|N. Gonzalez walked; L. Martineau advanced to second; M. Capobianc advanced to third.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|N. Gonzalez|walked
-45053|Salem, Ore.||7|top|45150|Occidental|Willamette|B. Joyner to p for D. Turner.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808||
-45053|Salem, Ore.||7|top|45181|Occidental|Willamette|A. Solomon walked, RBI; N. Gonzalez advanced to second; L. Martineau advanced to third; M. Capobianc scored.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|A. Solomon|walked
-45053|Salem, Ore.||7|top|45181|Occidental|Willamette|G. Palme struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|G. Palme|struck out swinging
-45053|Salem, Ore.||7|top|45181|Occidental|Willamette|J. Marshall struck out looking.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Marshall|struck out looking
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental||  for A. Naha.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808||
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental|J. Marshall to p.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Marshall|
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental|A. Naha to c for A. Solomon.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|A. Naha|
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental|E. Dunnam struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|E. Dunnam|struck out swinging
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental|W. Miner struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|W. Miner|struck out swinging
-45053|Salem, Ore.||7|bot|45181|Willamette|Occidental|J. Suchor flied out to 2b.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Suchor|flied out
-45053|Salem, Ore.||8|top|45181|Occidental|Willamette|K. Sugimoto struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|K. Sugimoto|struck out swinging
-45053|Salem, Ore.||8|top|45181|Occidental|Willamette|J. Cambra struck out looking.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Cambra|struck out looking
-45053|Salem, Ore.||8|top|45181|Occidental|Willamette|M. Capobianc struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|M. Capobianc|struck out swinging
-45053|Salem, Ore.||8|bot|45181|Willamette|Occidental|E. Fischel struck out swinging.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|E. Fischel|struck out swinging
-45053|Salem, Ore.||8|bot|45181|Willamette|Occidental|J. Hoffman lined out to 2b.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Hoffman|lined out
-45053|Salem, Ore.||8|bot|45181|Willamette|Occidental|L. Werkmeist struck out looking.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|L. Werkmeist|struck out looking
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|L. Martineau lined out to lf.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|L. Martineau|lined out
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|N. Upchurch fouled out to 1b.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|N. Upchurch|fouled out
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|C. Ferbet to lf for J. Suchor.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|C. Ferbet|
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|D. Baskin to ss for E. Fischel.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|D. Baskin|
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|J. Garrett to 1b for L. Werkmeist.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Garrett|
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|C. Lawson to cf for C. Walker.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|C. Lawson|
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|J. Murphy to c for E. Dunnam.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|J. Murphy|
-45053|Salem, Ore.||9|top|45181|Occidental|Willamette|N. Gonzalez flied out to cf to left center.|2023|https:||stats.ncaa.org|game|play_by_play|5489808|5489808|N. Gonzalez|flied out
-
+game_date|location|attendance|inning|inning_top_bot|score|batting|fielding|description|year|game_pbp_url|game_pbp_id|batter|action|
+44960|La Verne, CA||1|top|0-0|George Fox|Claremont-M-S|N. Meffertstruck out swinging.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|N.Meffert|struck out swinging|
+44960|La Verne, CA||1|top|0-0|George Fox|Claremont-M-S|J. Gee struckout swinging.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|J.Gee|struck out swinging|
+44960|La Verne, CA||1|top|0-0|George Fox|Claremont-M-S|J. Sangalang flied out to cf.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|J.Sangalang|flied out|
+44960|La Verne, CA||1|bot|0-0|Claremont-M-S|George Fox|T. Shawgrounded out to3b.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|T.Shaw|grounded out|
+44960|La Verne, CA||1|bot|0-0|Claremont-M-S|George Fox|J. Potter walked.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|J.Potter|walked|
+44960|La Verne, CA||1|bot|0-0|Claremont-M-S|George Fox|N. Wilsonwalked; J. Potter advanced to second.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|N.Wilson|walked|
+44960|La Verne, CA||1|bot|0-0|Claremont-M-S|George Fox|J. Sandersstruck out swinging.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|J.Sanders|struck out swinging|
+44960|La Verne, CA||1|bot|0-0|Claremont-M-S|George Fox|W. DeForest hit by pitch; N. Wilson advanced to second; J. Potter advanced tothird.|2023|https://stats.ncaa.org/game/play_by_play/5490161|5490161|W.DeForest|hit by pitch|
