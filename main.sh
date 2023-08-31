@@ -59,5 +59,9 @@ if [[ -z "$first" ]]; then
     first=$(awk -F '|' 'NR==i {print $9}' i="${i}" test.txt | awk /singled/ | awk -F 'single' '{print $1}')
 fi
 
+if [[ -z "$first" ]]; then
+    first=$(awk -F '|' 'NR==i {print $9}' i="${i}" test.txt | awk /first/ | awk -F 'reached' '{print $1}')
+fi
+
 echo "$year|$date|$id|$visitor|$home|$inning|$top|$away_score|$home_score|$away_text|$home_text|$bat_order|$battername|$first|$second|$third|$subnum|$sub_in"
 done >> final.txt
